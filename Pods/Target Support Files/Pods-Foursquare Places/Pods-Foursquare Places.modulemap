@@ -1,6 +1,0 @@
-framework module Pods_Foursquare_Places {
-  umbrella header "Pods-Foursquare Places-umbrella.h"
-
-  export *
-  module * { export * }
-}
